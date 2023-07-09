@@ -1,0 +1,14 @@
+{
+  "name": "ajs-3.1-platforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+ },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sergius92739/ajs": "^1.0.1"
+  }
+}
